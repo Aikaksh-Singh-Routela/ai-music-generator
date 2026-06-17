@@ -54,7 +54,5 @@ Aikaksh Singh Routela
 https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white
 https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
 
-
-
 ⭐ Star this repo if you found it useful!
 
