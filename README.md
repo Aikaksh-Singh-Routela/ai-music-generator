@@ -1,6 +1,6 @@
 # 🎵 AI Music Generator
 
-[🎵 Live Demo](https://ai-music-generator-eetwz9msem5mqtjptf9hol.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-music-generator-eetwz9msem5mqtjptf9hol.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
