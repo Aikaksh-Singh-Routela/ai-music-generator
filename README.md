@@ -4,6 +4,10 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+🔗 Links
+
+GitHub: Aikaksh-Singh-Routela/ai-music-generator
+
 Generate simple melodies using AI-powered sound synthesis. Choose scales, adjust tempo, add effects, and download your creations as WAV files.
 
 ## 🚀 Features
@@ -50,10 +54,7 @@ Aikaksh Singh Routela
 https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white
 https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
 
-🔗 Links
-Live Demo: ai-music-generator.streamlit.app
 
-GitHub: Aikaksh-Singh-Routela/ai-music-generator
 
 ⭐ Star this repo if you found it useful!
 
