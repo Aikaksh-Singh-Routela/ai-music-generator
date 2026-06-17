@@ -6,7 +6,7 @@
 
 🔗 Links
 
-GitHub: Aikaksh-Singh-Routela/ai-music-generator
+[GitHub](https://github.com/Aikaksh-Singh-Routela/ai-music-generator/tree/main)
 
 Generate simple melodies using AI-powered sound synthesis. Choose scales, adjust tempo, add effects, and download your creations as WAV files.
 
